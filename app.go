@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-    text := "Hello <<<<< World"
+    text := "Hello <<<<<<< World"
     fmt.Print(text)
 }
